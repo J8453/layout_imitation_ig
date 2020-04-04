@@ -1,6 +1,6 @@
 ## Introduction
 
-I was trying to mock instagram layout with 'React' and UI component library 'Semantic UI React'.
+I was trying to mock instagram layout with 'React' and 'Semantic UI React' (an UI component library).
 
 It's RWD.
 
