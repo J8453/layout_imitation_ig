@@ -2,7 +2,7 @@
 
 I was trying to mock instagram layout with 'React' and 'Semantic UI React' (an UI component library).
 
-It's RWD.
+It's also a RWD practice.
 
 ## DEMO
 
