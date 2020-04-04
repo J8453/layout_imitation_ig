@@ -1,19 +1,23 @@
-This project was build with [Create React App](https://github.com/facebook/create-react-app).
-
-## Intro
+## Introduction
 
 I was trying to mock instagram layout with 'React' and UI component library 'Semantic UI React'.
 
+It's RWD.
+
 ### quickshot
+
+The following is my putput:
 ![igimitation](/demo/igimitation.png)
 
 The following is real instagram layout:
 ![igimitation_contrast](/demo/igimitation_contrast.png)
 
 ### demo
-[[CLICK ME]](https://j8453.github.io/React/igimitation.html)
+[**[CLICK ME]**](https://j8453.github.io/React/igimitation.html)
 
 --------------
+
+* This project was build with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
