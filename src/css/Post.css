@@ -1,0 +1,54 @@
+.post {
+	font-size: 1.2em;
+	margin: 20px 0px;
+	flex-basis: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-end;
+}
+
+.post .card__post {
+	flex: 0 0 600px;
+}
+
+.post .card__post .post--owner--username {
+	font-size: 1.1em;
+}
+
+.post--img {
+	min-width: 100%;
+	max-width: 100%;
+}
+
+.post--icons {
+	display: flex;
+}
+
+.post--icons.post--icons>* {
+	margin: 0px 10px 0px 0px;
+}
+
+.post--icons .right {
+	flex: 1 0 0px;
+	text-align: right;
+}
+
+.post--likes {
+	font-weight: bold;
+	margin: 10px 0px;
+}
+
+.post--content--username,
+.post--comment--username {
+	font-weight: bold;
+}
+
+.post--leaveMessage {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.post--leaveMessage>input {
+	flex: 1 1 0px;
+}
