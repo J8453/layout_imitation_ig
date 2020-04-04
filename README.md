@@ -6,10 +6,10 @@ It's RWD.
 
 ### quickshot
 
-The following is my putput:
+The following is my output:
 ![igimitation](/demo/igimitation.png)
 
-The following is real instagram layout:
+As a contrast, the following is the real instagram layout:
 ![igimitation_contrast](/demo/igimitation_contrast.png)
 
 ### demo
