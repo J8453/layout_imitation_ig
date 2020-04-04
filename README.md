@@ -4,6 +4,8 @@ I was trying to mock instagram layout with 'React' and 'Semantic UI React' (an U
 
 It's RWD.
 
+## DEMO
+
 ### quickshot
 
 The following is my output:
@@ -12,12 +14,13 @@ The following is my output:
 As a contrast, the following is the real instagram layout:
 ![igimitation_contrast](/demo/igimitation_contrast.png)
 
-### demo
+### link
+
 [**[CLICK ME]**](https://j8453.github.io/React/igimitation.html)
 
 --------------
 
-* This project was build with [Create React App](https://github.com/facebook/create-react-app).
+This project was build with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
